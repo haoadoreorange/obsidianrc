@@ -1,1 +1,26 @@
-{}
+{
+  "showLineNumber": true,
+  "useTab": false,
+  "vimMode": true,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "assets",
+  "mobileToolbarCommands": [
+    "obsidian-outliner:indent-list",
+    "obsidian-outliner:outdent-list",
+    "editor:insert-wikilink",
+    "editor:attach-file",
+    "obsidian-tasks-plugin:edit-task",
+    "editor:toggle-code",
+    "editor:undo",
+    "editor:redo",
+    "file-explorer:new-file",
+    "templater-obsidian:obsidianrc/templates/today.md",
+    "command-palette:open",
+    "editor:configure-toolbar"
+  ],
+  "mobilePullAction": "obsidian-daily-notes-viewer:open-viewer",
+  "mobileQuickRibbonItem": "daily-notes:Open today's daily note",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "pages"
+}
