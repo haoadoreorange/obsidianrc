@@ -1,1 +1,112 @@
-{}
+{
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F1"
+    }
+  ],
+  "editor:focus": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F2"
+    }
+  ],
+  "obsidian-daily-notes-viewer:open-viewer": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "switcher:open": [],
+  "darlal-switcher-plus:switcher-plus:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "command-palette:open": [],
+  "darlal-switcher-plus:switcher-plus:open-commands": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageDown"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "Tab"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageUp"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F4"
+    }
+  ]
+}
