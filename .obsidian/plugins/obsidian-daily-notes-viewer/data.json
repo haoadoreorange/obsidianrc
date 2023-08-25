@@ -2,12 +2,12 @@
   "Filename": "Journals",
   "Folder": "journals",
   "NewPane": false,
-  "Beginning": "",
+  "Beginning": "\n## 🔥 OVERDUE\n```tasks\nnot done\ndue before today\nhide task count\n```\n## 🔨 TODO\n```tasks\nnot done\ndue after yesterday\ndue before in one week\nhide task count\n```\n## 📅 UPCOMING\n```tasks\nnot done\ndue after in six day\ndue before in three week\nhide task count\nshort mode\nlimit 10\n```\n## 🔰 BACKLOG\n```tasks\nnot done\nno due date\nhide task count\nlimit 10\n```\n## 📝 ♥︎♦︎♣︎♠︎\n",
   "Heading": "",
-  "Spacing": 0,
+  "Spacing": 1,
   "Filter": "recent",
   "Future": false,
-  "Quantity": 30,
+  "Quantity": 128,
   "Start": "",
   "End": ""
 }

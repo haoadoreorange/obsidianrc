@@ -59,8 +59,7 @@
   "showOptionalIndicatorIcons": true,
   "overrideStandardModeBehaviors": true,
   "enabledRibbonCommands": [
-    "HeadingsList",
-    "SymbolList"
+    "Standard"
   ],
   "fileExtAllowList": [
     "canvas"

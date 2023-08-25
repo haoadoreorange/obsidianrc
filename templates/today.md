@@ -1,0 +1,1 @@
+## <% tp.date.now("dddd") %>, [[<% tp.date.now("YYYY-MM-DD") %>]]
