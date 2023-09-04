@@ -1,0 +1,180 @@
+{
+  "workspaces": {
+    "default": {
+      "main": {
+        "id": "f91736dadee70a8f",
+        "type": "split",
+        "children": [
+          {
+            "id": "861d9a353cd2ed44",
+            "type": "split",
+            "children": [
+              {
+                "id": "6e8d9840cf06f1fa",
+                "type": "tabs",
+                "dimension": 76.84630738522954,
+                "children": [
+                  {
+                    "id": "021a4ef0fc2252c6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "journals/Journals.md",
+                        "mode": "source",
+                        "backlinks": false,
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "ea322c89df842b80",
+                "type": "tabs",
+                "dimension": 23.153692614770463,
+                "children": [
+                  {
+                    "id": "e60b9606edddc2b4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "journals/Journals.md",
+                        "collapseAll": false,
+                        "extraContext": false,
+                        "sortOrder": "alphabetical",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "aad6a57bf736d366",
+        "type": "split",
+        "children": [
+          {
+            "id": "67ae0a52ba4c79b5",
+            "type": "tabs",
+            "dimension": 61.876247504990026,
+            "children": [
+              {
+                "id": "78ed6f967130cda8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "c2082a64154d5c15",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "50ba356ee5422565",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "9c58973d03cb2255",
+            "type": "tabs",
+            "dimension": 38.12375249500998,
+            "children": [
+              {
+                "id": "faff09bc076cbe39",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "journals/Journals.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "b48f3237998ce420",
+        "type": "split",
+        "children": [
+          {
+            "id": "d7a3c3eb903fcb3d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dd6638e9a9c1f42f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "journals/Journals.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "8b285a33edf8f233",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 294.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:Manage workspace layouts": false,
+          "canvas:Create new canvas": false,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": false,
+          "daily-notes:Open today's daily note": true,
+          "obsidian-daily-notes-viewer:Open Viewer": true,
+          "command-palette:Open command palette": true,
+          "darlal-switcher-plus:Open in Standard Mode": true
+        }
+      },
+      "active": "021a4ef0fc2252c6"
+    }
+  },
+  "active": "default"
+}
