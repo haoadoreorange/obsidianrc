@@ -22,5 +22,8 @@
   "mobilePullAction": "obsidian-daily-notes-viewer:open-viewer",
   "mobileQuickRibbonItem": "daily-notes:Open today's daily note",
   "newFileLocation": "folder",
-  "newFileFolderPath": "pages"
+  "newFileFolderPath": "pages",
+  "userIgnoreFilters": [
+    "obsidianrc/example-vault/"
+  ]
 }
