@@ -1,7 +1,18 @@
 <%*
 const title = await tp.system.prompt("Title");
 await tp.file.rename(title);
-console.log("hi");
 -%>
 <% title.split('.').map(s => `[[${s}]]`).join('/') %>;
-<% tp.file.cursor() %>
+
+## ️️❄️ H1 #1997-31-03-Saturday
+
+### H2
+
+☁️ Lorem ipsum <% tp.file.cursor() %>
++
+    - item
+    - item
+
+```sh
+    script
+```
