@@ -1,6 +1,5 @@
-# obsidianrc
-My [Obsidian](https://obsidian.md/) config.
-## Usage
+# My [obsidianrc](https://obsidian.md/)
+
 - Clone this repo in vault as `.obsidian`
-- Run `git worktree add ../obsidianrc obsidianrc` (this is because the actual `.obsidian/` content cannot be in a sub-directory to avoid working with symlink, hence for Obsidian to access other files in here, it needs to be added as another directory in root visible to Obsidian)
+- `cp -R .obsidian obsidianrc` – `.obsidian/` cannot be a subdir in this repo to avoid symlink, but Obsidian cannot access files in its `.obsidian/`, so we just copy to another directory in root
 - Setup vault directory structure following `example-vault`.
