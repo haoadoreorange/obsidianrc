@@ -3,5 +3,6 @@
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "show-wikilink-bracket"
-  ]
+  ],
+  "showRibbon": true
 }
